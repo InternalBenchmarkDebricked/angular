@@ -43,7 +43,7 @@
     "karma-requirejs": "1.1.0",
     "karma-sourcemap-loader": "0.3.7",
     "protractor": "file:../../node_modules/protractor",
-    "requirejs": "2.3.6",
+    "requirejs": "2.3.7",
     "rollup": "file:../../node_modules/rollup",
     "rollup-plugin-sourcemaps": "file:../../node_modules/rollup-plugin-sourcemaps",
     "terser": "file:../../node_modules/terser",
