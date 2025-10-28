@@ -42,7 +42,7 @@
   },
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
-    "@aasbom/tester1": "^0.10.1"
+    "@aasbom/tester1": "^0.10.1",
     "@angular-devkit/build-angular": "13.2.5",
     "@angular-devkit/build-optimizer": "0.1302.1",
     "@angular-devkit/core": "13.2.5",
